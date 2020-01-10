@@ -1,2 +1,4 @@
 # Learn_R
-A base project to use in R Studio Cloud for remote Math 130 students
+
+This repository contains files for remote students to learn Math 130 by way of [R Studio Cloud](https://rstudio.cloud/). 
+
